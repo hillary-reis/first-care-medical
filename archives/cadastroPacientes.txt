@@ -1,0 +1,20 @@
+{
+  Nome: Hillary Reis 
+  CPF: 111.222.333-44 
+  RG: 555.666.777-8 
+  Data de nascimento: 12/12/2000 
+}
+
+{
+  Nome: Amanda Lima Sobrinho 
+  CPF: 999.999.999-99 
+  RG: 888.888.888-8 
+  Data de nascimento: 11/11/2000 
+}
+
+{
+  Nome: Alfredo Carvalho 
+  CPF: 444.222.888-11 
+  RG: 555.777.333-9 
+  Data de nascimento: 13/05/1965 
+}

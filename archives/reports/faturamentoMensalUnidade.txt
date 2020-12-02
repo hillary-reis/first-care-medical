@@ -1,0 +1,38 @@
+FATURAMENTO MENSAL DAS UNIDADES EM 2020
+
+Unidade I
+Janeiro: R$ 8,200.00
+Fevereiro: R$ 8,580.00
+Março: R$ 9,000.00
+Abril: R$ 9,250.00
+Maio: R$ 9,500.00
+Junho: R$ 9,800.00
+Julho: R$ 9,980.00
+Agosto: R$ 10,200.00
+Setembro: R$ 10,900.00
+Outubro: R$ 11,300.00
+Novembro: R$ 
+Dezembro: R$ 
+
+Unidade II
+Março: R$ 7,500.00
+Abril: R$ 7,950.00
+Maio: R$ 8,250.00
+Junho: R$ 8,500.00
+Julho: R$ 8,850.00
+Agosto: R$ 9,150.00
+Setembro: R$ 9500.00
+Outubro: R$ 9,850.00
+Novembro: R$ 
+Dezembro: R$ 
+
+Unidade III
+Abril: R$ 8,300.00
+Maio: R$ 8,500.00
+Junho: R$ 8,900.00
+Julho: R$ 9,200.00
+Agosto: R$ 9,350.00
+Setembro: R$ 9,700.00
+Outubro: R$ 10,500.00
+Novembro: R$ 
+Dezembro: R$ 

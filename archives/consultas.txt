@@ -1,0 +1,23 @@
+{
+  Nome: Hillary Reis 
+  CPF: 111.222.333-44 
+  Dia e Horario: 12/12 as 12h00 
+  Profissional: Clinico Geral 
+  Consulta cancelada: NÃO 
+}
+
+{
+  Nome: Amanda Lima Sobrinho 
+  CPF: 999.999.999-99 
+  Dia e Horario: 11/11 as 11h20 
+  Profissional: Pediatra 
+  Consulta cancelada: SIM, MOTIVO: Quebrou o pé e por isso não pode vir até o consultório 
+}
+
+{
+  Nome: Alfredo Carvalho 
+  CPF: 444.222.888-11 
+  Dia e Horario: 27/11 as 12h30 
+  Profissional: Urologista 
+  Consulta cancelada: NÃO 
+}
